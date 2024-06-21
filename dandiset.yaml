@@ -13,7 +13,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Farr, Susan (2024) CBD (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000985/draft
+citation: Farr, Susan (2024) CBD improves memory in SAMP8 Mice (Version draft) [Data
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000985/draft
 contributor:
 - affiliation: []
   email: susan.farr@health.slu.edu
@@ -33,14 +34,14 @@ license:
 - spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000985/versions/draft/assets/
-name: CBD
+name: CBD improves memory in SAMP8 Mice
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget:
-- CBD
+- Memory
 url: https://dandiarchive.org/dandiset/000985/draft
 version: draft
 wasGeneratedBy: []
